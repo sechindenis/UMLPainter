@@ -1,0 +1,38 @@
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.Forms.HelpForm.resources
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.MainForm.resources
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.GenerateResource.cache
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.exe
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\refint\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\ref\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\UMLPainter.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.Forms.HelpForm.resources
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.MainForm.resources
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.GenerateResource.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.csproj.CopyComplete
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\refint\UMLPainter.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\UMLPainter.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\UMLPainter\UMLPainter\obj\Debug\net6.0-windows\ref\UMLPainter.dll
