@@ -13,7 +13,7 @@ namespace UMLPainter
 
         public InterfaceRectangle(Color color, int width) : this()
         {
-            PropertyBlocks = new List<AbstractBlock>() { };
+            PropertyBlocks = new List<AbstractBlock>() { new PropertyBlock(StartPoint) };
             MethodBlocks = new List<AbstractBlock>() { new MethodBlock(StartPoint) };
 
             FigureColor = color;
@@ -27,6 +27,7 @@ namespace UMLPainter
             _pen = new Pen(FigureColor, FigureWidth);
 
             DrawTitleBlock(graphics);
+            DrawPropertyBlocks(graphics);
             DrawMethodBlocks(graphics);
         }       
     }
